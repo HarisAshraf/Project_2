@@ -1,0 +1,1491 @@
+(sdc-c2) root@dcf29b0962c0:/home/workspace# python loop_over_dataset.py 
+Using Model: darknet
+using darknet
+Loaded weights from /home/workspace/tools/objdet_models/darknet/pretrained/complex_yolov4_mse_loss.pth
+
+------------------------------
+processing frame #0
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #1
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #2
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #3
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #4
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #5
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #6
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #7
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #8
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #9
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #10
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #11
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #12
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #13
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #14
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #15
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #16
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #17
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #18
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #19
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #20
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #21
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #22
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #23
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #24
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #25
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #26
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #27
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #28
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #29
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #30
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #31
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #32
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #33
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #34
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #35
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #36
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #37
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #38
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #39
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #40
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #41
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #42
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #43
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #44
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #45
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #46
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #47
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #48
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #49
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #50
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #51
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #52
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #53
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #54
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #55
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #56
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #57
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #58
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #59
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #60
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #61
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #62
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #63
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #64
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #65
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #66
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #67
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #68
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #69
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #70
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #71
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #72
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #73
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #74
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #75
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #76
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #77
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #78
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #79
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #80
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #81
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #82
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #83
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #84
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #85
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #86
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #87
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #88
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #89
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #90
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #91
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #92
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #93
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #94
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #95
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #96
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #97
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #98
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #99
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+------------------------------
+processing frame #100
+computing point-cloud from lidar range image
+computing birds-eye view from lidar pointcloud
+student task ID_S2_EX1
+student task ID_S2_EX2
+student task ID_S2_EX3
+detecting objects in lidar pointcloud
+student task ID_S3_EX2
+validating object labels
+measuring detection performance
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX1 
+student task ID_S4_EX2
+reached end of selected frames
+student task ID_S4_EX3
+precision = 0.9423076923076923, recall = 0.9040590405904059
